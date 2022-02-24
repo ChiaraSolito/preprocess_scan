@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+filtered_feature_bc_matrix/*
+.ipynb_checkpoints/*
+cache/*
+figures/*
+write/*
+data/*
+/*.png
+/*.csv
+MouseData_original.ipynb
